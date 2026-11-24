@@ -1,0 +1,6 @@
+1.0 base             + 0.0 prod: AUC 0.89201 best 0.78024@0.38 nested 0.77981 (prod nested 0.78023, diff -0.00043) bootstrap diff -0.00055 sd 0.00067
+0.5 base             + 0.5 prod: AUC 0.89289 best 0.78119@0.4 nested 0.78099 (prod nested 0.78023, diff +0.00076) bootstrap diff +0.00041 sd 0.00072
+1.0 pseudo_hard      + 0.0 prod: AUC 0.89261 best 0.78133@0.38 nested 0.78101 (prod nested 0.78023, diff +0.00078) bootstrap diff +0.00057 sd 0.00069
+0.5 pseudo_hard      + 0.5 prod: AUC 0.89323 best 0.78146@0.4 nested 0.78116 (prod nested 0.78023, diff +0.00093) bootstrap diff +0.00073 sd 0.00072
+1.0 nonoise          + 0.0 prod: AUC 0.89236 best 0.78026@0.41 nested 0.77979 (prod nested 0.78023, diff -0.00044) bootstrap diff -0.00039 sd 0.00094
+0.5 nonoise          + 0.5 prod: AUC 0.89331 best 0.78096@0.4 nested 0.78040 (prod nested 0.78023, diff +0.00017) bootstrap diff +0.00025 sd 0.00071

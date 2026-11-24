@@ -1,0 +1,1 @@
+lgb leaves2 F1 lr0.1 its[1422, 1458, 1431, 1360, 1392]: ll 0.6215 raw 0.7542 insampleW 0.7549 nestedW 0.7547 | diff vs ref -0.0001 (boot sd 0.0007, P(diff>0) 0.47)

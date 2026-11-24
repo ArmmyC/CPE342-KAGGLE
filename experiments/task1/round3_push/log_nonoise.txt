@@ -1,0 +1,4 @@
+nonoise seed 2: AUC 0.89127 macroF2 best 0.77952@0.4 @0.37 0.77827 iters [494, 660, 585, 684, 538] 64s
+nonoise seed 3: AUC 0.89108 macroF2 best 0.77911@0.39 @0.37 0.77882 iters [721, 503, 402, 654, 471] 51s
+nonoise seed 4: AUC 0.89104 macroF2 best 0.77854@0.39 @0.37 0.77764 iters [471, 477, 693, 693, 660] 38s
+nonoise seed 42: AUC 0.89089 macroF2 best 0.77822@0.4 @0.37 0.77696 iters [798, 691, 671, 718, 544] 65s

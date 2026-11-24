@@ -1,0 +1,6 @@
+fold 0 it 385 10s
+fold 1 it 460 21s
+fold 2 it 407 36s
+fold 3 it 576 45s
+fold 4 it 632 53s
+off_lin: spender mean|r| 0.1371, core mean|r| 0.1279 sd 0.1555, median|r| 0.1159

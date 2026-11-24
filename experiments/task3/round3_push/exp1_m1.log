@@ -1,0 +1,6 @@
+fold 0 21s
+fold 1 48s
+fold 2 74s
+fold 3 104s
+fold 4 139s
+lognorm rebuild m1 f42: 0.78965

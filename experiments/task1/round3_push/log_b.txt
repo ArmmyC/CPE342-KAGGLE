@@ -1,0 +1,10 @@
+  nonoise s1 fold 0 it 193 133s
+  nonoise s2 fold 0 it 161 136s
+  nonoise s3 fold 0 it 183 144s
+  nonoise s1 fold 1 it 197 255s
+  nonoise s1 fold 2 it 178 376s
+  nonoise s3 fold 1 it 330 386s
+  nonoise s2 fold 1 it 412 412s
+  nonoise s1 fold 3 it 312 528s
+  nonoise s3 fold 2 it 201 508s
+  nonoise s2 fold 2 it 162 521s

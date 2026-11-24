@@ -1,0 +1,4 @@
+base seed 1: AUC 0.89051 macroF2 best 0.77885@0.39 @0.37 0.77695 iters [652, 682, 377, 584, 682] 62s
+base seed 2: AUC 0.89062 macroF2 best 0.77802@0.4 @0.37 0.77730 iters [449, 453, 436, 717, 448] 58s
+base seed 3: AUC 0.89075 macroF2 best 0.77903@0.38 @0.37 0.77765 iters [588, 509, 301, 562, 441] 76s
+base seed 4: AUC 0.89047 macroF2 best 0.77850@0.39 @0.37 0.77772 iters [518, 606, 581, 578, 548] 640s

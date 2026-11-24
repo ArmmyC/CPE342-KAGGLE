@@ -1,0 +1,7 @@
+  base s1 fold 0 it 241 197s
+  base s3 fold 0 it 233 239s
+  base s2 fold 0 it 318 283s
+  base s1 fold 1 it 200 379s
+  base s3 fold 1 it 243 486s
+  base s2 fold 1 it 198 496s
+  base s1 fold 2 it 160 548s

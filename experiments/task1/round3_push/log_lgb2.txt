@@ -1,0 +1,1 @@
+Terminated                 NJ=5 LR=0.06 python -u exp_lgb.py $n 1,2,3

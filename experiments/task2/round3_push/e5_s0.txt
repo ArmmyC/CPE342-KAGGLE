@@ -1,0 +1,1 @@
+EM-NB bins100 s2.5 foldseed0: ll 0.6041 raw 0.7540 insampleW 0.7544 nestedW 0.7533

@@ -1,0 +1,1 @@
+1.0 pseudo_hard_nn   + 0.0 prod: AUC 0.89303 best 0.78120@0.39 nested 0.78120 (prod nested 0.78023, diff +0.00097) bootstrap diff +0.00050 sd 0.00081

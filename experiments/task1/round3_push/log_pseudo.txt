@@ -1,0 +1,3 @@
+pseudo_hard seed 1: AUC 0.89117 macroF2 best 0.77957@0.38 @0.37 0.77842 iters [647, 415, 405, 567, 440] 153s
+pseudo_hard seed 2: AUC 0.89121 macroF2 best 0.77917@0.39 @0.37 0.77794 iters [535, 428, 541, 582, 475] 122s
+pseudo_hard seed 3: AUC 0.89133 macroF2 best 0.77938@0.4 @0.37 0.77871 iters [466, 501, 379, 545, 520] 151s

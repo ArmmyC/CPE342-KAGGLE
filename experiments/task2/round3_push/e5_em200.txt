@@ -1,0 +1,1 @@
+EM-NB bins200 s5.0 foldseed42: ll 0.6043 raw 0.7542 insampleW 0.7550 nestedW 0.7541 | diff vs ref -0.0007 (boot sd 0.0007, P(diff>0) 0.18)

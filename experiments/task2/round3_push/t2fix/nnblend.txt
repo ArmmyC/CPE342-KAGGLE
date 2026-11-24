@@ -1,0 +1,13 @@
+  nn weight 0.0: 0.7537
+  nn weight 0.1: 0.7546
+  nn weight 0.2: 0.7547
+  nn weight 0.3: 0.7551
+  nn weight 0.4: 0.7546
+  nn weight 0.5: 0.7544
+  nn weight 0.6: 0.7539
+  nn weight 0.7: 0.7531
+  nn weight 0.8: 0.7524
+  nn weight 0.9: 0.7521
+  nn weight 1.0: 0.7514
+TASK 2: base blend 0.7537 -> best nn weight 0.3: 0.7551
+class weights [0.8  0.95 0.95 1.1 ] macro F1 with weights 0.7558

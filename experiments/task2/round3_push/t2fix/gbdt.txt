@@ -1,0 +1,18 @@
+  lgb fold 0 iters 407
+  lgb fold 1 iters 374
+  lgb fold 2 iters 469
+  lgb fold 3 iters 458
+  lgb fold 4 iters 437
+TASK 2 lgb seed 42: macroF1 0.7519
+  xgb fold 0 iters 728
+  xgb fold 1 iters 717
+  xgb fold 2 iters 687
+  xgb fold 3 iters 751
+  xgb fold 4 iters 721
+TASK 2 xgb seed 42: macroF1 0.7517
+  cat fold 0 iters 1322
+  cat fold 1 iters 1121
+  cat fold 2 iters 1244
+  cat fold 3 iters 1321
+  cat fold 4 iters 1126
+TASK 2 cat seed 42: macroF1 0.7521
