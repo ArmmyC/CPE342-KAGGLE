@@ -24,6 +24,7 @@ CPE342-KAGGLE/
 ├── task5/               Task 5 Account Security Monitoring (anomaly detection, F3)
 │   └── task5.ipynb
 ├── experiments/         โค้ดทดลองทั้งหมดที่ไม่ได้อยู่ใน pipeline สุดท้าย (แยกตาม task)
+├── report/             รายงานทางเทคนิค (PDF และ Word)
 ├── make_submission.py   รวมคำตอบ 5 task เป็น submission.csv
 ├── requirements.txt
 └── README.md
@@ -41,7 +42,9 @@ CPE342-KAGGLE/
 | 4 | EVA02 Large + ConvNeXt V2 Large (pretrained) fine-tune ด้วย generic robustness augmentation อย่างละ 5 fold แล้วเฉลี่ยน้ำหนักเท่ากัน | macro F1 (OOF) 0.995 บนภาพสะอาด, 0.993 บน degraded proxy |
 | 5 | ค้นหากลุ่มผิดปกติ 7 กลุ่มที่แยกตัวด้วยช่องว่างของ histogram + spike ช่วงที่ 4 + posterior ของกลุ่มที่ 7 | ไม่มี label (ประเมินจาก leaderboard ได้ F3 ≈ 0.995) |
 
-คะแนน public leaderboard ของชุดคำตอบนี้คือ **0.84253** (เฉลี่ย 5 task)
+คะแนนของชุดคำตอบนี้คือ public leaderboard **0.84253** และ private leaderboard **0.84253** (เฉลี่ย 5 task)
+
+รายงานทางเทคนิค (ภาษาไทย) อยู่ที่ [`report/CPE342_Kaggle_Technical_Report.pdf`](report/CPE342_Kaggle_Technical_Report.pdf) และไฟล์ Word ต้นฉบับ [`report/CPE342_Kaggle_Technical_Report.docx`](report/CPE342_Kaggle_Technical_Report.docx)
 
 ## การเตรียมข้อมูล
 
